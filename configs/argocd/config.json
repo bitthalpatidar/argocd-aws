@@ -5,6 +5,6 @@
 "path": "",
 "name": "argocd",
 "valuesPath": "configs/argocd/values.yaml",
-#"valuesOverlayPath": "configs/argocd/values-overlay.yaml",
 "namespace": "argocd"
 }
+##"valuesOverlayPath": "configs/argocd/values-overlay.yaml",
